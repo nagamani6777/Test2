@@ -11,5 +11,6 @@ Maps.html
 in this file created as simple beach marker which is locating Arizona state in USA google map.
 
 gmaps.html
-In this file craated a popup marker which is popup when you touch that marker.( locating at lasvegas in USA googlemap )
+
+In this file created a popup marker which is popup when you hover on that marker.( locating at lasvegas in USA googlemap )
 
